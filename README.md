@@ -1,4 +1,4 @@
-rocon_apps
-==========
+rocon_rapps
+===========
 
-Rocon/robot applications.
+Dummpy rapp repo for rapp index testing.
