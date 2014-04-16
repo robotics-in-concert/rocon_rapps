@@ -15,7 +15,9 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>kobuki_apps</run_depend>
+  <!-- Dependencies would normally dig back into kobuki
+    <run_depend>kobuki_apps</run_depend>
+   -->
   <export>
     <rocon_app>random_walker/random_walker.rapp</rocon_app>
     <rocon_app>auto_docking/auto_docking.rapp</rocon_app>

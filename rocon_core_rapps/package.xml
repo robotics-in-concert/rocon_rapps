@@ -19,8 +19,9 @@
   <!--
     some hypothetical supporting packages which would eventually house
     the sounds, scripts etc. that these rocon_core_rapps use when invoked 
+
+    <run_depend>rocon_core_rapp_resources</run_depend>
    -->
-  <run_depend>rocon_core_rapp_resources</run_depend>
   <run_depend>rospy_tutorials</run_depend>
   <export>
     <rocon_app>chirp/chirp.rapp</rocon_app>
