@@ -13,7 +13,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <!-- <run_depend>tango_cash</run_depend>
+  <!-- <run_depend>tango_cash</run_depend> -->
   <export>
     <!-- <rocon_app>foo/foo.rapp</rocon_app> -->
     <!-- <rocon_app>bar/bar.rapp</rocon_app> -->
